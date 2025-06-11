@@ -1,5 +1,3 @@
-###
-
 # Check Types in RAW file
 
 ## Type 1
